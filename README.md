@@ -7,7 +7,7 @@ https://user-images.githubusercontent.com/35972296/226935825-7903fa17-244b-4e7d-
 
 ## About This Game
 
-As of 2023.03.21, considered an alpha release. Introduces static meshes within Virtual tiny House's repo into a gaming environment. Includes keyboard & mouse and gampad support.
+<p>As of 2023.03.21, considered an alpha release. Introduces static meshes within Virtual tiny House's repo into a gaming environment. Includes keyboard & mouse and gampad support.</p>
 
 ## Features & Goals
 
