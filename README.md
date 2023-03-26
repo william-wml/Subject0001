@@ -1,7 +1,5 @@
 # VtH Overtures
 
-![GameSplash](https://user-images.githubusercontent.com/35972296/227466752-5e1d0e23-9849-4492-a9f2-e8d1860499f5.png)
+<img src="https://github.com/williamwml/VthOvertures/blob/experimental/Art/GameSplash.png" width="50%" height="50%">
 
-emu_LessOuterBracks_-  img src="https://github.com/williamwml/VthOvertures/blob/experimental/Art/GameSplash.png" width="50%" height="50%"
-
-__2022.03.24-VthOvertures_Alpha.7z__ - *Game* | *Shipping Build* | *UAT* | *UE5* | *Win64*
+[__2023.03.26-VthOvertures_Alpha.7z__](https://github.com/williamwml/VthOvertures/blob/experimental/Drafts/2022.03.26-VthOvertures_Alpha.7z) - *Game* | *Shipping Build* | *UAT* | *UE5* | *Win64*
