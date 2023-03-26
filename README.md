@@ -3,7 +3,7 @@
 
 https://user-images.githubusercontent.com/35972296/226935825-7903fa17-244b-4e7d-97ec-40d16753e2ee.mp4
 
-(An *approx.* 9*mb* silent cinematic. A 60sec video can be viewed via [this link.](https://youtu.be/asv1tX2OOZg))
+(An *approx.* 9*mb* silent cinematic. A 60sec video can be viewed via [this link.](https://youtu.be/6YseOdbVmWI)
 
 ## About This Game
 
@@ -11,7 +11,7 @@ https://user-images.githubusercontent.com/35972296/226935825-7903fa17-244b-4e7d-
 
 ## Features & Goals
 
-Creating an Experimental Branch - including a compressed instance of [a game.](https://github.com/william-wml/VirtualTinyHouse/tree/Feature-wml-patch-1)
+Creating an Experimental Branch - including a compressed instance of [a game.](https://github.com/william-wml/VthOvetures/tree/experimental)
 
 ### System Requirements
 
